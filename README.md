@@ -6,10 +6,15 @@ I wanted to make something more fun and a little bigger than my earlier projects
 What it does
 
  • Shows a simple detective story
+
  • Lets the player make choices
+
  • Keeps track of the game state
+
  • Uses an inventory system
+
  • Has different buttons and screens
+
  • Uses Tkinter for the interface
 
 
